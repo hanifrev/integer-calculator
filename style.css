@@ -11,7 +11,7 @@ body {
 	/*position: absolute;*/
 	margin: 0 auto;
 	width: 400px;
-	background-color:  black;
+	/*background-color:  black;*/
 	color: white;
 	font-size: 40px;
 	/*text-align: center;*/
@@ -56,3 +56,12 @@ body {
 .triple {
 	width: 92%;
 }
+
+.cal-button:hover {
+	 background-color: #ebebeb;
+}
+
+.cal-button:active {
+  background-color: #bbbcbe;
+}
+
